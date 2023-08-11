@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line 1 added locally
+=======
+line 1 added on github
+>>>>>>> 7fc7c76ee6ee5bcaf93d91085288577c6765db35
