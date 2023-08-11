@@ -4,3 +4,4 @@ pizza
 onion rings
 lemons
 oranges
+fish sticks
