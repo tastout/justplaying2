@@ -6,3 +6,4 @@ lemons
 oranges
 fish sticks
 chicken strips
+potato chips
